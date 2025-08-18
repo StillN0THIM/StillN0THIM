@@ -9,6 +9,9 @@ Always curious, sometimes buggy, but forever compiling new ideas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kapoor-375476332/)
+[![Discord](https://img.shields.io/badge/Discord-n0thimactually-5865F2?logo=discord&logoColor=white)](https://discord.com)
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
