@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 👋
+I am Himanshu kapoor
 
 
 ## 🌐 Socials:
