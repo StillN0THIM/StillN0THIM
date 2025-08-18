@@ -7,9 +7,12 @@ Always curious, sometimes buggy, but forever compiling new ideas
 
 </div>
 
-## 🌐 Socials:
+## 🔗 **Let’s connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kapoor-375476332/)
 [![Discord](https://img.shields.io/badge/Discord-n0thimactually-5865F2?logo=discord&logoColor=white)](https://discord.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/n0thim)
+
+
 
 
 
