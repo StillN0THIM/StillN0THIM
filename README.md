@@ -2,8 +2,7 @@
 
 # Hello There! :D  
 
-I’m **Himanshu Kapoor** – a B.Tech AIML student learning to turn coffee into code.   
-Always curious, sometimes buggy, but forever compiling new ideas 
+I’m **Himanshu Kapoor** – a B.Tech AIML student  
 
 </div>
 
